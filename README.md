@@ -1,4 +1,5 @@
-
+## WELCOME TO MY 👋👋👋
+My name is Song. I am currently a student at Ho Chi Minh City Open University, studying Information Technology, and I am aiming for a career as a Data Engineer (DE).
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069319509289&mibextid=ZbWKwL) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@SonghocIT) 
 
@@ -11,12 +12,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=vansong2k5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=vansong2k5&icon=0&color=0)](https://visitcount.itsvg.in)
