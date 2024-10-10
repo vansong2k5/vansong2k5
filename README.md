@@ -8,8 +8,7 @@ My name is Song. I am currently a student at Ho Chi Minh City Open University, s
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069319509289&mibextid=ZbWKwL)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@SonghocIT) 
 
-![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs,issues,contribs)
+![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=prs,issues,contribs)<br/>
 # 🗃️ My project: 
 ![](https://github.com/vansong2k5/A-basic-web)
 ![](https://github.com/vansong2k5/Playlist_with_Python)
