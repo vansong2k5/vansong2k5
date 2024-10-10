@@ -10,7 +10,7 @@ My name is Song. I am currently a student at Ho Chi Minh City Open University, s
 
 ![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 # 🗃️ My project: 
-![Anurag's GitHub stats](https://github.com/vansong2k5/A-basic-web?username=vansong2k5&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/vansong2k5/A-basic-webusername=vansong2k5&show_icons=true&theme=radical)
 ![](https://github.com/vansong2k5/A-basic-web)
 ![](https://github.com/vansong2k5/Playlist_with_Python)
 ![](https://github.com/vansong2k5/Profile)
