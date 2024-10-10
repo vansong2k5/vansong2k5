@@ -9,8 +9,8 @@ My name is Song. I am currently a student at Ho Chi Minh City Open University, s
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@SonghocIT) 
 
 ![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs,issues,contribs)
 # 🗃️ My project: 
-![Basic Web](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vansong2k5&show_icons=true&theme=radical)
 ![](https://github.com/vansong2k5/A-basic-web)
 ![](https://github.com/vansong2k5/Playlist_with_Python)
 ![](https://github.com/vansong2k5/Profile)
