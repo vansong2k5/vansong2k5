@@ -15,4 +15,4 @@ My name is Song. I am currently a student at Ho Chi Minh City Open University, s
 # 🗂️ The course was created by me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Markdown-File&theme=react)](https://github.com/vansong2k5/Markdown-File)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Basic-Python&theme=gotham)](https://github.com/vansong2k5/Basic-Python)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
