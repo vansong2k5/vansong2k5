@@ -8,11 +8,11 @@ My name is Song. I am currently a student at Ho Chi Minh City Open University, s
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069319509289&mibextid=ZbWKwL)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@SonghocIT) 
 
-![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&hide=prs,issues,contribs)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=prs,issues,contribs)<br/>
 # 🗃️ My project: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Book_selling_website&theme=cobalt)](https://github.com/vansong2k5/A-basic-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Playlist_with_Python&theme=dark)](https://github.com/vansong2k5/Playlist_with_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Book_selling_website&theme=radial)](https://github.com/vansong2k5/A-basic-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Playlist_with_Python&theme=cobalt)](https://github.com/vansong2k5/Playlist_with_Python)
 # 🗂️ The course was created by me:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Markdown-File&theme=cobalt)](https://github.com/vansong2k5/Markdown-File)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Basic_Python&theme=dark)](https://github.com/vansong2k5/Basic-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Markdown-File&theme=merko)](https://github.com/vansong2k5/Markdown-File)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Basic-Python&theme=onedark)](https://github.com/vansong2k5/Basic-Python)
 # 📚 My document:
