@@ -11,10 +11,8 @@ My name is Song. I am currently a student at Ho Chi Minh City Open University, s
 ![](https://github-readme-stats.vercel.app/api?username=vansong2k5&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=prs,issues,contribs)<br/>
 # 🗃️ My project: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Book_selling_website&theme=radical)](https://github.com/vansong2k5/A-basic-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Playlist_with_Python&theme=radical)](https://github.com/vansong2k5/Playlist_with_Python)
-
-![](https://github.com/vansong2k5/Profile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Playlist_with_Python&theme=merko)](https://github.com/vansong2k5/Playlist_with_Python)
 # 🗂️ The course was created by me:
-![](https://github.com/vansong2k5/Markdown-File)
-![](https://github.com/vansong2k5/Basic-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Markdown-File&theme=cobalt)](https://github.com/vansong2k5/Markdown-File)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vansong2k5&repo=Basic_Python&theme=cobalt)](https://github.com/vansong2k5/Basic-Python)
 # 📚 My document:
